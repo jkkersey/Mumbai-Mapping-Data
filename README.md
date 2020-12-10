@@ -1,3 +1,3 @@
 # Mumbai-Mapping-Data
 
-This data was downloaded from https://github.com/datameet/Municipal_Spatial_Data/tree/master/Mumbai. It is licensed under the same license as the source data.
+The dataset is created by the Pune chapter of the DataMeet Trust, Bangalore, India. It is available at https://github.com/datameet/Municipal_Spatial_Data/tree/master/Mumbai. This data is shared under Creative Commons Attribution-ShareAlike 2.5 India license.
